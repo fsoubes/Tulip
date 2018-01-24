@@ -541,10 +541,7 @@ def main(graph):
    	for gene in listecluster :
    		fl.write(gene+'\n')
    		
-   	
-  liste = Regulon(parti)
-  for i in liste :
-  	print (i)
+
   
 
   
