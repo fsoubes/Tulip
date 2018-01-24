@@ -424,31 +424,7 @@ def heatmap(heat):
 ###### ANALYSE ########
 #######################
 
-def getcluster(gr):
-	
-	rMetric = gr.getDoubleProperty("resultMetric")
-	Locus = gr.getStringProperty("Locus")
-	m=0
-	max_metric = rMetric.getNodeDoubleMax()
-	finallocus = []
-	finallocus.append("Cluster 0")
-	while m <= max_metric :
-		for i in gr.getNodes():
-			if rMetric[i] == m :
-				finallocus.append(str(Locus[i]))
-		m+=1
-		finallocus.append("Cluster "+str(m))
-		
-	return finallocus
-  	
 
-def Regulon(gr):
-	Listeregul=[]
-	Locus = gr.getStringProperty("Locus")
-	for i in gr.getNodes():
-		if gr.deg(i) > 40:
-			Listeregul.append(Locus[i])
-	return Listeregul
 
 
 #######################
