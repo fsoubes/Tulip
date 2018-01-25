@@ -1,0 +1,5 @@
+ECK120000311 is in cluster1
+ECK120000057 is in cluster2
+ECK120000160 is in cluster2
+ECK120000319 is in cluster3
+ECK120002317 is in cluster3
