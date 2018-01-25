@@ -1,0 +1,31 @@
+#!/usr/bin/env python
+import sys
+from Bio import SwissProt
+from pyuniprot import query
+
+query = pyuniprot.query()
+all_entries = query.entry()
+entry = query.entry(gene_name='YWHAE', taxid=9606, recommended_short_name='14-3-3E', name='1433E_HUMAN')[0]
+entry
+
+
+
+def getid(entry_file):
+    file1 = open(entry_file,'r')
+    line = file1.readlines()
+    listid=[]
+    for l in line:
+        l = l.rstrip()
+        listid.append(l)
+    print(len(listid))
+    return (listid)
+
+
+  
+    
+
+
+#reg = getid(sys.argv[1])
+#print(reg)
+#obtained = pyuprot(reg)
+#print(obtained)

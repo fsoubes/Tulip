@@ -1,0 +1,45 @@
+numero uniprot est le suivant 
+ 
+b1244 b3958 b3164 b1892 b3869 b0841 b1886 b1921 b3618 
+
+ID accession uniprot est le suivant 
+P0AFH2  P11446  P05055  P0A8S9  P0AFB5  P75806  P07017  P52627  P25666  
+
+L'enrichissement ontologique pour ces termes est la suivante 
+
+intracellular [GO:0005622]ATP binding [GO:0005524]identical protein binding [GO:0042802]phosphoprotein phosphatase activity [GO:0004721]phosphorelay sensor kinase activity [GO:0000155]nitrogen fixation [GO:0009399]phosphorelay signal transduction system [GO:0000160]protein autophosphorylation [GO:0046777]regulation of nitrogen compound metabolic process [GO:0051171]regulation of transcription, DNA-templated [GO:0006355]
+ 
+cytosol [GO:0005829]membrane [GO:0016020]3'-5'-exoribonuclease activity [GO:0000175]cyclic-di-GMP binding [GO:0035438]identical protein binding [GO:0042802]metal ion binding [GO:0046872]polyribonucleotide nucleotidyltransferase activity [GO:0004654]RNA binding [GO:0003723]mRNA catabolic process [GO:0006402]response to heat [GO:0009408]RNA processing [GO:0006396]
+ 
+integral component of plasma membrane [GO:0005887]methyl accepting chemotaxis protein complex [GO:0098561]protein histidine kinase binding [GO:0043424]protein homodimerization activity [GO:0042803]signal transducer activity [GO:0004871]transmembrane signaling receptor activity [GO:0004888]cellular response to amino acid stimulus [GO:0071230]chemotaxis [GO:0006935]detection of chemical stimulus [GO:0009593]positive regulation of post-translational protein modification [GO:1901875]protein homooligomerization [GO:0051260]regulation of chemotaxis [GO:0050920]signal complex assembly [GO:0007172]
+ 
+cytoplasm [GO:0005737]DNA binding [GO:0003677]bacterial-type flagellum assembly [GO:0044780]positive regulation of transcription, DNA-templated [GO:0045893]transcription, DNA-templated [GO:0006351]
+ 
+integral component of membrane [GO:0016021]plasma membrane [GO:0005886]undecaprenyl-diphosphatase activity [GO:0050380]cell wall organization [GO:0071555]peptidoglycan biosynthetic process [GO:0009252]regulation of cell shape [GO:0008360]response to antibiotic [GO:0046677]
+ 
+cytoplasm [GO:0005737]N-acetyl-gamma-glutamyl-phosphate reductase activity [GO:0003942]NAD binding [GO:0051287]protein dimerization activity [GO:0046983]arginine biosynthetic process [GO:0006526]
+ 
+core promoter binding [GO:0001047]sigma factor antagonist activity [GO:0016989]DNA integration [GO:0015074]regulation of bacterial-type flagellum-dependent cell motility [GO:1902021]
+ 
+integral component of membrane [GO:0016021]plasma membrane [GO:0005886]protein transport [GO:0015031]
+ 
+cytoplasm [GO:0005737]plasma membrane [GO:0005886]7S RNA binding [GO:0008312]DEAD/H-box RNA helicase binding [GO:0017151]endonuclease activity [GO:0004519]identical protein binding [GO:0042802]magnesium ion binding [GO:0000287]ribonuclease activity [GO:0004540]ribonuclease E activity [GO:0008995]RNA binding [GO:0003723]mRNA catabolic process [GO:0006402]protein homotetramerization [GO:0051289]regulation of ATP-dependent RNA helicase activity [GO:1902280]RNA catabolic process [GO:0006401]rRNA 5'-end processing [GO:0000967]tRNA processing [GO:0008033]
+ 
+cytoplasm [GO:0005737]cytosol [GO:0005829]methyl accepting chemotaxis protein complex [GO:0098561]plasma membrane [GO:0005886]ATP binding [GO:0005524]phosphorelay sensor kinase activity [GO:0000155]protein histidine kinase activity [GO:0004673]chemotaxis [GO:0006935]establishment of localization in cell [GO:0051649]negative regulation of protein modification process [GO:0031400]phosphorelay signal transduction system [GO:0000160]phosphorylation [GO:0016310]positive regulation of post-translational protein modification [GO:1901875]positive regulation of protein dephosphorylation [GO:0035307]protein autophosphorylation [GO:0046777]regulation of bacterial-type flagellum-dependent cell motility [GO:1902021]regulation of chemotaxis [GO:0050920]
+ 
+cytosol [GO:0005829]ATP binding [GO:0005524]enzyme regulator activity [GO:0030234]identical protein binding [GO:0042802]small molecule binding [GO:0036094]regulation of catalytic activity [GO:0050790]regulation of fatty acid biosynthetic process [GO:0042304]regulation of nitrogen utilization [GO:0006808]regulation of transcription, DNA-templated [GO:0006355]transcription, DNA-templated [GO:0006351]
+ 
+
+ 
+cytosol [GO:0005829]ATP binding [GO:0005524]ATP-dependent RNA helicase activity [GO:0004004]ATPase activity [GO:0016887]poly(A) binding [GO:0008143]RNA strand annealing activity [GO:0033592]RNA-dependent ATPase activity [GO:0008186]ribosomal large subunit assembly [GO:0000027]RNA secondary structure unwinding [GO:0010501]
+ 
+cytosol [GO:0005829]ATP binding [GO:0005524]ATP-dependent RNA helicase activity [GO:0004004]disordered domain specific binding [GO:0097718]RNA binding [GO:0003723]RNA catabolic process [GO:0006401]RNA secondary structure unwinding [GO:0010501]
+ 
+cytosol [GO:0005829]ATP binding [GO:0005524]phosphorelay response regulator activity [GO:0000156]sequence-specific DNA binding [GO:0043565]transcription factor binding [GO:0008134]nitrogen fixation [GO:0009399]regulation of nitrogen utilization [GO:0006808]regulation of transcription, DNA-templated [GO:0006355]transcription, DNA-templated [GO:0006351]
+ 
+enzyme regulator activity [GO:0030234]identical protein binding [GO:0042802]nucleotide binding [GO:0000166]positive regulation of nitrogen utilization [GO:0045848]regulation of transcription, DNA-templated [GO:0006355]transcription, DNA-templated [GO:0006351]
+ 
+cytosol [GO:0005829]methyl accepting chemotaxis protein complex [GO:0098561]plasma membrane [GO:0005886]protein domain specific binding [GO:0019904]signal transducer activity [GO:0004871]chemotaxis [GO:0006935]establishment of localization in cell [GO:0051649]positive regulation of post-translational protein modification [GO:1901875]signal transduction [GO:0007165]
+ 
+
+ 

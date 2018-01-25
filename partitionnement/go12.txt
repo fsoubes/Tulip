@@ -1,0 +1,31 @@
+numero uniprot est le suivant 
+ 
+b3140 b0430 b2279 b1006 b0758 b3709 b4151 b3266 b3269 b1429 b1920 
+
+ID accession uniprot est le suivant 
+P42911  P0ABJ3  P0AFE4  P75892  P09148  P23173  P0A8Q3  P24181  P45767  P25396  P0AEM9  
+
+L'enrichissement ontologique pour ces termes est la suivante 
+
+cytosol [GO:0005829]ferrous iron binding [GO:0008198]galactokinase activity [GO:0004335]UDP-glucose:hexose-1-phosphate uridylyltransferase activity [GO:0008108]zinc ion binding [GO:0008270]galactose catabolic process via UDP-galactose [GO:0033499]
+ 
+cytochrome o ubiquinol oxidase complex [GO:0009319]integral component of plasma membrane [GO:0005887]plasma membrane [GO:0005886]cytochrome bo3 ubiquinol oxidase activity [GO:0009486]cytochrome o ubiquinol oxidase activity [GO:0008827]cytochrome-c oxidase activity [GO:0004129]electron transfer activity [GO:0009055]hydrogen ion transmembrane transporter activity [GO:0015078]oxidoreduction-driven active transmembrane transporter activity [GO:0015453]aerobic electron transport chain [GO:0019646]aerobic respiration [GO:0009060]electron transport coupled proton transport [GO:0015990]
+ 
+integral component of plasma membrane [GO:0005887]NADH dehydrogenase complex [GO:0030964]plasma membrane [GO:0005886]plasma membrane respiratory chain complex I [GO:0045272]NADH dehydrogenase (ubiquinone) activity [GO:0008137]quinone binding [GO:0048038]ATP synthesis coupled electron transport [GO:0042773]transport [GO:0006810]
+ 
+membrane [GO:0016020]outer membrane-bounded periplasmic space [GO:0030288]amino acid binding [GO:0016597]ionotropic glutamate receptor activity [GO:0004970]L-cystine transmembrane transporter activity [GO:0015184]L-cystine transport [GO:0015811]sulfur utilization [GO:0006791]
+ 
+integral component of membrane [GO:0016021]plasma membrane [GO:0005886]cation efflux transmembrane transporter activity [GO:0046583]identical protein binding [GO:0042802]cation transport [GO:0006812]response to antibiotic [GO:0046677]response to tellurium ion [GO:0046690]transmembrane transport [GO:0055085]
+ 
+integral component of plasma membrane [GO:0005887]plasma membrane [GO:0005886]pyrimidine nucleotide transmembrane transporter activity [GO:0015218]symporter activity [GO:0015293]uracil transmembrane transporter activity [GO:0015210]uracil catabolic process [GO:0006212]uracil transport [GO:0015857]
+ 
+integral component of plasma membrane [GO:0005887]plasma membrane [GO:0005886]plasma membrane fumarate reductase complex [GO:0045284]succinate dehydrogenase (ubiquinone) activity [GO:0008177]succinate dehydrogenase activity [GO:0000104]anaerobic respiration [GO:0009061]fermentation [GO:0006113]fumarate metabolic process [GO:0006106]
+ 
+integral component of membrane [GO:0016021]plasma membrane [GO:0005886]transporter activity [GO:0005215]
+ 
+integral component of plasma membrane [GO:0005887]plasma membrane [GO:0005886]aromatic amino acid transmembrane transporter activity [GO:0015173]symporter activity [GO:0015293]amino acid transmembrane transport [GO:0003333]tryptophan catabolic process [GO:0006569]
+ 
+integral component of membrane [GO:0016021]plasma membrane [GO:0005886]transporter activity [GO:0005215]amino acid transport [GO:0006865]
+ 
+integral component of plasma membrane [GO:0005887]plasma membrane [GO:0005886]sugar transmembrane transporter activity [GO:0051119]phosphoenolpyruvate-dependent sugar phosphotransferase system [GO:0009401]
+ 

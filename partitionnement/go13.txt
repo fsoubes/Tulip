@@ -1,0 +1,47 @@
+numero uniprot est le suivant 
+ 
+b3137 b0035 b3723 b1042 b1882 b0077 b0687 b2542 b3161 
+
+ID accession uniprot est le suivant 
+P0AB74  P39206  P11989  P28307  P0AE67  P00893  P0AFY8  P77650  P0AAD2  
+
+L'enrichissement ontologique pour ces termes est la suivante 
+
+cytosol [GO:0005829]acetyltransferase activity [GO:0016407]magnesium ion binding [GO:0000287]bacterial-type flagellum-dependent cell motility [GO:0071973]chemotaxis [GO:0006935]internal peptidyl-lysine acetylation [GO:0018393]phosphorelay signal transduction system [GO:0000160]protein acetylation [GO:0006473]
+ 
+cytosol [GO:0005829]identical protein binding [GO:0042802]tagatose-bisphosphate aldolase activity [GO:0009025]zinc ion binding [GO:0008270]carbohydrate metabolic process [GO:0005975]D-tagatose 6-phosphate catabolic process [GO:2001059]protein homotetramerization [GO:0051289]
+ 
+cytosol [GO:0005829]SeqA-DNA complex [GO:1990097]DNA replication origin binding [GO:0003688]double-stranded methylated DNA binding [GO:0010385]hemi-methylated DNA-binding [GO:0044729]identical protein binding [GO:0042802]negative regulation of DNA-dependent DNA replication initiation [GO:0032297]nucleoid organization [GO:0090143]protein homotetramerization [GO:0051289]regulation of transcription, DNA-templated [GO:0006355]response to radiation [GO:0009314]sister chromatid cohesion [GO:0007062]
+ 
+cytosol [GO:0005829]acetolactate synthase activity [GO:0003984]flavin adenine dinucleotide binding [GO:0050660]magnesium ion binding [GO:0000287]thiamine pyrophosphate binding [GO:0030976]isoleucine biosynthetic process [GO:0009097]valine biosynthetic process [GO:0009099]
+ 
+pilus [GO:0009289]identical protein binding [GO:0042802]amyloid fibril formation [GO:1990000]cell adhesion [GO:0007155]single-species biofilm formation [GO:0044010]
+ 
+ferredoxin-NAD+ reductase activity [GO:0008860]flavin adenine dinucleotide binding [GO:0050660]3-phenylpropionate catabolic process [GO:0019380]
+ 
+integral component of plasma membrane [GO:0005887]plasma membrane [GO:0005886]active transmembrane transporter activity [GO:0022804]high-affinity tryptophan transmembrane transporter activity [GO:0005300]symporter activity [GO:0015293]amino acid transmembrane transport [GO:0003333]
+ 
+RNA binding [GO:0003723]positive regulation of transcription, DNA-templated [GO:0045893]transcription, DNA-templated [GO:0006351]
+ 
+carnitine dehydratase activity [GO:0008735]transferase activity [GO:0016740]carnitine metabolic process [GO:0009437]
+ 
+cytosol [GO:0005829]cytosolic large ribosomal subunit [GO:0022625]large ribosomal subunit [GO:0015934]protein homodimerization activity [GO:0042803]ribosome binding [GO:0043022]structural constituent of ribosome [GO:0003735]translation [GO:0006412]
+ 
+cytoplasm [GO:0005737]cytosol [GO:0005829]methyl accepting chemotaxis protein complex [GO:0098561]plasma membrane [GO:0005886]ATP binding [GO:0005524]phosphorelay sensor kinase activity [GO:0000155]protein histidine kinase activity [GO:0004673]chemotaxis [GO:0006935]establishment of localization in cell [GO:0051649]negative regulation of protein modification process [GO:0031400]phosphorelay signal transduction system [GO:0000160]phosphorylation [GO:0016310]positive regulation of post-translational protein modification [GO:1901875]positive regulation of protein dephosphorylation [GO:0035307]protein autophosphorylation [GO:0046777]regulation of bacterial-type flagellum-dependent cell motility [GO:1902021]regulation of chemotaxis [GO:0050920]
+ 
+DNA polymerase III, clamp loader complex [GO:0043846]ATP binding [GO:0005524]ATPase activity [GO:0016887]DNA binding [GO:0003677]DNA polymerase processivity factor activity [GO:0030337]DNA-directed DNA polymerase activity [GO:0003887]identical protein binding [GO:0042802]nucleoside-triphosphatase activity [GO:0017111]DNA replication [GO:0006260]DNA-dependent DNA replication [GO:0006261]
+ 
+bacterial-type flagellum [GO:0009288]cytosol [GO:0005829]methyl accepting chemotaxis protein complex [GO:0098561]plasma membrane [GO:0005886]identical protein binding [GO:0042802]phosphoprotein phosphatase activity [GO:0004721]bacterial-type flagellum-dependent swimming motility [GO:0071977]chemotaxis [GO:0006935]regulation of chemotaxis [GO:0050920]
+ 
+cytosol [GO:0005829]phosphoenolpyruvate-dependent sugar phosphotransferase complex [GO:0019197]identical protein binding [GO:0042802]kinase activity [GO:0016301]magnesium ion binding [GO:0000287]metal ion binding [GO:0046872]phosphoenolpyruvate-protein phosphotransferase activity [GO:0008965]phosphoenolpyruvate-dependent sugar phosphotransferase system [GO:0009401]
+ 
+cytoplasm [GO:0005737]excinuclease repair complex [GO:0009380]ATP binding [GO:0005524]DNA binding [GO:0003677]excinuclease ABC activity [GO:0009381]identical protein binding [GO:0042802]nucleotide-excision repair [GO:0006289]response to radiation [GO:0009314]SOS response [GO:0009432]
+ 
+protein-DNA complex [GO:0032993]bacterial-type RNA polymerase transcriptional repressor activity, sequence-specific DNA binding [GO:0001217]DNA binding [GO:0003677]nickel cation binding [GO:0016151]sequence-specific DNA binding [GO:0043565]transcription regulatory region sequence-specific DNA binding [GO:0000976]regulation of transcription, DNA-templated [GO:0006355]response to nickel cation [GO:0010045]transcription, DNA-templated [GO:0006351]
+ 
+cytosol [GO:0005829]phosphoenolpyruvate-dependent sugar phosphotransferase complex [GO:0019197]enzyme activator activity [GO:0008047]kinase activity [GO:0016301]phosphoenolpyruvate-protein phosphotransferase activity [GO:0008965]phosphoenolpyruvate-dependent sugar phosphotransferase system [GO:0009401]positive regulation of glycogen catabolic process [GO:0045819]
+ 
+intracellular [GO:0005622]kinase activity [GO:0016301]signal transducer activity [GO:0004871]chemotaxis [GO:0006935]phosphorelay signal transduction system [GO:0000160]
+ 
+DNA binding [GO:0003677]transcription factor activity, sequence-specific DNA binding [GO:0003700]transcription, DNA-templated [GO:0006351]
+ 

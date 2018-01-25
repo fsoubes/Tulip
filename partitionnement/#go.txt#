@@ -1,0 +1,27 @@
+numero uniprot est le suivant
+
+b3425 b4321 b3225 b0934 b1041 b2424 b0996 b0153
+
+ID accession uniprot est le suivant
+
+P0A6V5  P0AC94  P0A6L4  P75851  P0ABK7  P16701  P33226  P06972
+
+L'enrichissement ontologique pour ces termes est la suivante
+
+cytosol [GO:0005829]identical protein binding [GO:0042802]N-acetylneuraminate lyase activity [GO:0008747]carbohydrate metabolic process [GO:0005975]N-acetylneuraminate catabolic process [GO:0019262]
+
+cell outer membrane [GO:0009279]pilus [GO:0009289]identical protein binding [GO:0042802]amyloid fibril formation [GO:1990000]cell adhesion [GO:0007155]single-species biofilm formation [GO:0044010]
+
+integral component of plasma membrane [GO:0005887]membrane [GO:0016020]plasma membrane [GO:0005886]gluconate transmembrane transporter activity [GO:0015128]sugar:proton symporter activity [GO:0005351]D-gluconate catabolic process [GO:0046177]gluconate transmembrane transport [GO:0035429]
+
+Gram-negative-bacterium-type cell wall [GO:0009276]integral component of membrane [GO:0016021]oxidoreductase complex [GO:1990204]plasma membrane [GO:0005886]electron transfer activity [GO:0009055]heme binding [GO:0020037]iron ion binding [GO:0005506]aerobic respiration [GO:0009060]anaerobic respiration [GO:0009061]
+
+ATP-binding cassette (ABC) transporter complex [GO:0043190]integral component of plasma membrane [GO:0005887]plasma membrane [GO:0005886]transporter activity [GO:0005215]ion transport [GO:0006811]iron ion homeostasis [GO:0055072]
+
+cytoplasm [GO:0005737]thiosulfate sulfurtransferase activity [GO:0004792]
+
+integral component of membrane [GO:0016021]plasma membrane [GO:0005886]ATPase-coupled sulfate transmembrane transporter activity [GO:0015419]sulfate transport [GO:0008272]
+
+integral component of plasma membrane [GO:0005887]plasma membrane [GO:0005886]sulfur compound metabolic process [GO:0006790]transport [GO:0006810]
+
+outer membrane-bounded periplasmic space [GO:0030288]cofactor binding [GO:0048037]electron transfer activity [GO:0009055]molybdenum ion binding [GO:0030151]trimethylamine-N-oxide reductase (cytochrome c) activity [GO:0050626]aerobic respiration [GO:0009060]anaerobic respiration [GO:0009061]

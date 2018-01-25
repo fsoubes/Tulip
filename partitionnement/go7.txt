@@ -1,0 +1,91 @@
+numero uniprot est le suivant 
+ 
+b3135 b0975 b0062 b3846 b2994 b1136 b0726 b3093 b0757 b4266 b1517 b4037 b3405 b3750 b4194 b3567 b2580 b2342 b4093 b1194 b3403 b3008 b0907 
+
+ID accession uniprot est le suivant 
+P42906  P19930  P08202  P21177  P0ACE0  P08200  P0AFG3  P0AA78  P0A6T3  P0A9P9  P76143  P03841  P0AA16  P0AGI1  P69822  P37388  P12295  P76503  P16691  P76010  P22259  P06721  P23721  
+
+L'enrichissement ontologique pour ces termes est la suivante 
+
+cytosol [GO:0005829]ATP binding [GO:0005524]calcium ion binding [GO:0005509]magnesium ion binding [GO:0000287]phosphoenolpyruvate carboxykinase (ATP) activity [GO:0004612]gluconeogenesis [GO:0006094]
+ 
+cytoplasm [GO:0005737]cytosol [GO:0005829]isocitrate dehydrogenase (NADP+) activity [GO:0004450]magnesium ion binding [GO:0000287]NAD binding [GO:0051287]electron transport chain [GO:0022900]glyoxylate cycle [GO:0006097]response to oxidative stress [GO:0006979]tricarboxylic acid cycle [GO:0006099]
+ 
+cytosol [GO:0005829]O-phospho-L-serine:2-oxoglutarate aminotransferase activity [GO:0004648]pyridoxal phosphate binding [GO:0030170]L-serine biosynthetic process [GO:0006564]L-serine metabolic process [GO:0006563]lysine biosynthetic process via diaminopimelate and N-succinyl-2-amino-6-ketopimelate [GO:0033359]pyridoxal phosphate biosynthetic process [GO:0042823]pyridoxine biosynthetic process [GO:0008615]
+ 
+cytoplasm [GO:0005737]cystathionine beta-lyase activity [GO:0004121]L-cysteine desulfhydrase activity [GO:0080146]pyridoxal phosphate binding [GO:0030170]L-cysteine catabolic process to pyruvate [GO:0019450]methionine biosynthetic process [GO:0009086]
+ 
+fatty acid beta-oxidation multienzyme complex [GO:0036125]3-hydroxyacyl-CoA dehydrogenase activity [GO:0003857]3-hydroxybutyryl-CoA epimerase activity [GO:0008692]dodecenoyl-CoA delta-isomerase activity [GO:0004165]enoyl-CoA hydratase activity [GO:0004300]fatty acid beta-oxidation [GO:0006635]
+ 
+cytoplasm [GO:0005737]protein-DNA complex [GO:0032993]bacterial-type RNA polymerase transcriptional activator activity, sequence-specific DNA binding [GO:0001216]bacterial-type RNA polymerase transcriptional repressor activity, sequence-specific DNA binding [GO:0001217]phosphorelay response regulator activity [GO:0000156]transcription regulatory region sequence-specific DNA binding [GO:0000976]negative regulation of transcription, DNA-templated [GO:0045892]phosphorelay signal transduction system [GO:0000160]positive regulation of transcription, DNA-templated [GO:0045893]transcription, DNA-templated [GO:0006351]
+ 
+cytosol [GO:0005829]oxoglutarate dehydrogenase complex [GO:0045252]identical protein binding [GO:0042802]magnesium ion binding [GO:0000287]oxoglutarate dehydrogenase (succinyl-transferring) activity [GO:0004591]thiamine pyrophosphate binding [GO:0030976]glycolytic process [GO:0006096]tricarboxylic acid cycle [GO:0006099]
+ 
+extrinsic component of periplasmic side of plasma membrane [GO:0031236]ferredoxin hydrogenase activity [GO:0008901]hydrogenase (acceptor) activity [GO:0033748]nickel cation binding [GO:0016151]
+ 
+cytoplasm [GO:0005737]cytosol [GO:0005829]3-hydroxyacyl-CoA dehydrogenase activity [GO:0003857]acetyl-CoA C-acyltransferase activity [GO:0003988]enoyl-CoA hydratase activity [GO:0004300]fatty acid beta-oxidation [GO:0006635]fatty acid beta-oxidation, unsaturated, even number [GO:0033542]
+ 
+bacterial-type flagellum basal body [GO:0009425]cofactor binding [GO:0048037]cyclic-di-GMP binding [GO:0035438]bacterial-type flagellum-dependent cell motility [GO:0071973]regulation of bacterial-type flagellum-dependent cell motility by regulation of motor speed [GO:0071945]
+ 
+cytoplasm [GO:0005737]cytosol [GO:0005829]ATP binding [GO:0005524]galactokinase activity [GO:0004335]galactose binding [GO:0005534]magnesium ion binding [GO:0000287]galactose catabolic process via UDP-galactose [GO:0033499]
+ 
+cytoplasm [GO:0005737]lyase activity [GO:0016829]transferase activity, transferring acyl groups other than amino-acyl groups [GO:0016747]
+ 
+cytosol [GO:0005829]L-arabinose isomerase activity [GO:0008733]metal ion binding [GO:0046872]arabinose catabolic process [GO:0019568]L-arabinose catabolic process to xylulose 5-phosphate [GO:0019569]
+ 
+cytoplasm [GO:0005737]uracil DNA N-glycosylase activity [GO:0004844]base-excision repair, AP site formation via deaminated base removal [GO:0097510]
+ 
+ATP-binding cassette (ABC) transporter complex [GO:0043190]integral component of membrane [GO:0016021]integral component of plasma membrane [GO:0005887]plasma membrane [GO:0005886]D-ribose transmembrane transporter activity [GO:0015591]monosaccharide transmembrane transporter activity [GO:0015145]D-ribose transport [GO:0015752]
+ 
+cytoplasm [GO:0005737]kinase activity [GO:0016301]protein-N(PI)-phosphohistidine-sugar phosphotransferase activity [GO:0008982]protein-phosphocysteine-L-ascorbate-phosphotransferase system transporter activity [GO:0090585]L-ascorbic acid transport [GO:0015882]phosphoenolpyruvate-dependent sugar phosphotransferase system [GO:0009401]
+ 
+plasma membrane [GO:0005886]ATP binding [GO:0005524]D-xylose transmembrane transporter activity [GO:0015148]D-xylose-importing ATPase activity [GO:0015614]D-xylose metabolic process [GO:0042732]D-xylose transport [GO:0015753]
+ 
+cytoplasm [GO:0005737]N-acetyltransferase activity [GO:0008080]aminophosphonate metabolic process [GO:0033051]
+ 
+integral component of membrane [GO:0016021]plasma membrane [GO:0005886]hexuronate transmembrane transporter activity [GO:0015134]hexuronate transport [GO:0015736]
+ 
+gluconate 5-dehydrogenase activity [GO:0008874]L-idonate catabolic process [GO:0046183]
+ 
+aspartic-type endopeptidase activity [GO:0004190]endopeptidase activity [GO:0004175]enzyme activator activity [GO:0008047]metal ion binding [GO:0046872]cellular protein modification process [GO:0006464]protein processing [GO:0016485]
+ 
+cytoplasm [GO:0005737]cytosol [GO:0005829]membrane [GO:0016020]plasma membrane [GO:0005886]protein complex [GO:0043234]ADP binding [GO:0043531]ATP binding [GO:0005524]ATPase activity [GO:0016887]chaperone binding [GO:0051087]protein binding involved in protein folding [GO:0044183]sigma factor antagonist activity [GO:0016989]unfolded protein binding [GO:0051082]zinc ion binding [GO:0008270]cellular response to unfolded protein [GO:0034620]chaperone cofactor-dependent protein refolding [GO:0070389]chaperone mediated protein folding requiring cofactor [GO:0051085]DNA replication [GO:0006260]protein complex assembly [GO:0006461]protein complex disassembly [GO:0043241]response to heat [GO:0009408]
+ 
+cytoplasmic side of plasma membrane [GO:0009898]integral component of plasma membrane [GO:0005887]intracellular [GO:0005622]ATP binding [GO:0005524]identical protein binding [GO:0042802]phosphoprotein phosphatase activity [GO:0004721]phosphorelay sensor kinase activity [GO:0000155]phosphorelay signal transduction system [GO:0000160]phosphorylation [GO:0016310]protein autophosphorylation [GO:0046777]protein dephosphorylation [GO:0006470]regulation of response to osmotic stress [GO:0047484]
+ 
+N-acetylglucosamine-6-phosphate deacetylase activity [GO:0008448]carbohydrate metabolic process [GO:0005975]N-acetylglucosamine catabolic process [GO:0006046]
+ 
+cytosol [GO:0005829]aminoacyl-tRNA editing activity [GO:0002161]ATP binding [GO:0005524]isoleucine-tRNA ligase activity [GO:0004822]ligase activity [GO:0016874]tRNA binding [GO:0000049]zinc ion binding [GO:0008270]isoleucyl-tRNA aminoacylation [GO:0006428]response to antibiotic [GO:0046677]
+ 
+outer membrane-bounded periplasmic space [GO:0030288]carbohydrate transport [GO:0008643]
+ 
+cytoplasm [GO:0005737][isocitrate dehydrogenase (NADP+)] kinase activity [GO:0008772][isocitrate dehydrogenase (NADP+)] phosphatase activity [GO:0101014]AMP binding [GO:0016208]ATP binding [GO:0005524]protein serine/threonine kinase activity [GO:0004674]protein serine/threonine phosphatase activity [GO:0004722]glucose metabolic process [GO:0006006]glyoxylate cycle [GO:0006097]peptidyl-serine phosphorylation [GO:0018105]regulation of catalytic activity [GO:0050790]tricarboxylic acid cycle [GO:0006099]
+ 
+bacterial-type flagellum basal body [GO:0009425]plasma membrane [GO:0005886]motor activity [GO:0003774]bacterial-type flagellum-dependent cell motility [GO:0071973]positive chemotaxis [GO:0050918]
+ 
+bacterial-type flagellum basal body [GO:0009425]plasma membrane [GO:0005886]identical protein binding [GO:0042802]motor activity [GO:0003774]bacterial-type flagellum assembly [GO:0044780]bacterial-type flagellum-dependent cell motility [GO:0071973]chemotaxis [GO:0006935]
+ 
+carbon dioxide binding [GO:1902670]identical protein binding [GO:0042802]iron ion binding [GO:0005506]protein maturation [GO:0051604]
+ 
+[Ni-Fe] hydrogenase complex [GO:0044569]membrane [GO:0016020]outer membrane-bounded periplasmic space [GO:0030288]plasma membrane [GO:0005886]electron transfer activity [GO:0009055]ferredoxin hydrogenase activity [GO:0008901]hydrogenase (acceptor) activity [GO:0033748]nickel cation binding [GO:0016151]anaerobic respiration [GO:0009061]fermentation [GO:0006113]
+ 
+cytosol [GO:0005829]ATP binding [GO:0005524]metal ion binding [GO:0046872]nucleoside diphosphate kinase activity [GO:0004550]CTP biosynthetic process [GO:0006241]GTP biosynthetic process [GO:0006183]purine nucleotide metabolic process [GO:0006163]pyrimidine nucleotide metabolic process [GO:0006220]UTP biosynthetic process [GO:0006228]
+ 
+cytosol [GO:0005829]oxoglutarate dehydrogenase complex [GO:0045252]dihydrolipoyllysine-residue succinyltransferase activity [GO:0004149]lipoic acid binding [GO:0031405]L-lysine catabolic process to acetyl-CoA via saccharopine [GO:0033512]tricarboxylic acid cycle [GO:0006099]
+ 
+cytoplasm [GO:0005737]GDP binding [GO:0019003]GTP binding [GO:0005525]GTPase activity [GO:0003924]selenocysteine insertion sequence binding [GO:0035368]translation elongation factor activity [GO:0003746]tRNA binding [GO:0000049]selenocysteine incorporation [GO:0001514]selenocysteine metabolic process [GO:0016259]
+ 
+cytosol [GO:0005829]DNA binding [GO:0003677]N-methyltransferase activity [GO:0008170]site-specific DNA-methyltransferase (adenine-specific) activity [GO:0009007]DNA restriction-modification system [GO:0009307]
+ 
+
+ 
+cytoplasm [GO:0005737]ATP binding [GO:0005524]ATPase activity [GO:0016887]valine-tRNA ligase activity [GO:0004832]transport [GO:0006810]valyl-tRNA aminoacylation [GO:0006438]
+ 
+integral component of membrane [GO:0016021]
+ 
+
+ 
+
+ 
+
+ 

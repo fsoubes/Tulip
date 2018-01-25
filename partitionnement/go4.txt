@@ -1,0 +1,103 @@
+numero uniprot est le suivant 
+ 
+b4116 b0508 b0973 b2091 b2242 b2286 b1009 b3669 b2075 b3077 b4291 b3424 b2488 b0763 b0677 b3749 b3904 b3906 b3905 b3451 b3568 b0937 b2423 b1283 b0523 b1207 b4071 b4326 b1826 b4390 b0655 b4293 b0198 b3769 
+
+ID accession uniprot est le suivant 
+P33234  P30147  P0ACD8  P0A9S3  P13033  P33599  P75895  P0AGA6  P76398  P0AC73  P13036  P09391  P77423  P37329  P0AF18  P04983  P32171  P09378  P09377  P10906  P0AGI4  P80644  P0AEB0  P0ADA7  P0AG18  P0A717  P0ABL1  P39375  P64512  P27278  P37902  P23484  P31547  P0ADG1  
+
+L'enrichissement ontologique pour ces termes est la suivante 
+
+N-acetylglucosamine-6-phosphate deacetylase activity [GO:0008448]zinc ion binding [GO:0008270]carbohydrate metabolic process [GO:0005975]N-acetylglucosamine catabolic process [GO:0006046]N-acetylneuraminate catabolic process [GO:0019262]protein homotetramerization [GO:0051289]
+ 
+ATP binding [GO:0005524]rhamnulokinase activity [GO:0008993]rhamnose catabolic process [GO:0019301]
+ 
+cytoplasm [GO:0005737]plasma membrane [GO:0005886]ATP binding [GO:0005524]bacterial-type RNA polymerase core promoter proximal region sequence-specific DNA binding [GO:0000986]magnesium ion binding [GO:0000287]nicotinamide-nucleotide adenylyltransferase activity [GO:0000309]ribosylnicotinamide kinase activity [GO:0050262]cellular response to metal ion [GO:0071248]NAD biosynthetic process [GO:0009435]negative regulation of transcription, DNA-templated [GO:0045892]protein homotetramerization [GO:0051289]response to alkaline pH [GO:0010446]transcription, DNA-templated [GO:0006351]transport [GO:0006810]
+ 
+cytosol [GO:0005829]ATP binding [GO:0005524]kinase activity [GO:0016301]magnesium ion binding [GO:0000287]phosphate ion binding [GO:0042301]ribose phosphate diphosphokinase activity [GO:0004749]5-phosphoribose 1-diphosphate biosynthetic process [GO:0006015]nucleoside metabolic process [GO:0009116]nucleotide biosynthetic process [GO:0009165]ribonucleoside monophosphate biosynthetic process [GO:0009156]
+ 
+cytoplasm [GO:0005737]sequence-specific DNA binding [GO:0043565]transcription factor activity, sequence-specific DNA binding [GO:0003700]regulation of transcription, DNA-templated [GO:0006355]rhamnose metabolic process [GO:0019299]transcription, DNA-templated [GO:0006351]
+ 
+membrane [GO:0016020]NADH dehydrogenase complex [GO:0030964]plasma membrane [GO:0005886]plasma membrane respiratory chain complex I [GO:0045272]NAD binding [GO:0051287]NADH dehydrogenase (ubiquinone) activity [GO:0008137]quinone binding [GO:0048038]transport [GO:0006810]
+ 
+integral component of plasma membrane [GO:0005887]plasma membrane [GO:0005886]endopeptidase activity [GO:0004175]identical protein binding [GO:0042802]serine-type endopeptidase activity [GO:0004252]proteolysis [GO:0006508]
+ 
+cytosol [GO:0005829]5-(carboxyamino)imidazole ribonucleotide mutase activity [GO:0034023]identical protein binding [GO:0042802]'de novo' IMP biosynthetic process [GO:0006189]
+ 
+[Ni-Fe] hydrogenase complex [GO:0044569]membrane [GO:0016020]outer membrane-bounded periplasmic space [GO:0030288]plasma membrane [GO:0005886]electron transfer activity [GO:0009055]ferredoxin hydrogenase activity [GO:0008901]hydrogenase (acceptor) activity [GO:0033748]nickel cation binding [GO:0016151]anaerobic respiration [GO:0009061]fermentation [GO:0006113]
+ 
+hydroxypyruvate isomerase activity [GO:0008903]protein homodimerization activity [GO:0042803]glyoxylate metabolic process [GO:0046487]
+ 
+cytoplasm [GO:0005737]DNA binding [GO:0003677]phosphorelay signal transduction system [GO:0000160]regulation of transcription, DNA-templated [GO:0006355]transcription, DNA-templated [GO:0006351]
+ 
+outer membrane-bounded periplasmic space [GO:0030288]electron transfer activity [GO:0009055]heme binding [GO:0020037]metal ion binding [GO:0046872]nitrite reductase (cytochrome, ammonia-forming) activity [GO:0042279]anaerobic electron transport chain [GO:0019645]nitrogen compound metabolic process [GO:0006807]
+ 
+FMN reductase (NADPH) activity [GO:0052873]FMN reductase activity [GO:0008752]alkanesulfonate catabolic process [GO:0046306]cellular response to DNA damage stimulus [GO:0006974]cellular response to sulfate starvation [GO:0009970]protein homotetramerization [GO:0051289]
+ 
+outer membrane-bounded periplasmic space [GO:0030288]aspartate binding [GO:0070335]glutamate binding [GO:0016595]L-aspartate transport [GO:0070778]L-glutamate transport [GO:0015813]
+ 
+integral component of membrane [GO:0016021]plasma membrane [GO:0005886]cellular response to magnesium ion [GO:0071286]negative regulation of molecular function [GO:0044092]negative regulation of phosphorelay signal transduction system [GO:0070298]regulation of transcription, DNA-templated [GO:0006355]response to acidic pH [GO:0010447]transcription, DNA-templated [GO:0006351]
+ 
+ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing [GO:0055052]integral component of plasma membrane [GO:0005887]plasma membrane [GO:0005886]L-methionine transmembrane transporter activity [GO:0015191]D-methionine transport [GO:0048473]
+ 
+cytosol [GO:0005829]plasma membrane [GO:0005886]FMN binding [GO:0010181]glycerol-3-phosphate dehydrogenase activity [GO:0004368]sn-glycerol-3-phosphate:ubiquinone-8 oxidoreductase activity [GO:0052591]anaerobic respiration [GO:0009061]glycerol catabolic process [GO:0019563]glycerol-3-phosphate catabolic process [GO:0046168]
+ 
+cytoplasm [GO:0005737]sequence-specific DNA binding [GO:0043565]transcription factor activity, sequence-specific DNA binding [GO:0003700]positive regulation of transcription, DNA-templated [GO:0045893]regulation of transcription, DNA-templated [GO:0006355]rhamnose metabolic process [GO:0019299]transcription, DNA-templated [GO:0006351]
+ 
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides [GO:0016811]nitrogen utilization [GO:0019740]pyrimidine nucleobase catabolic process [GO:0006208]uracil catabolic process [GO:0006212]
+ 
+cell outer membrane [GO:0009279]integral component of membrane [GO:0016021]ferric iron transmembrane transporter activity [GO:0015091]iron ion binding [GO:0005506]receptor activity [GO:0004872]ferric iron transport [GO:0015682]iron ion homeostasis [GO:0055072]siderophore transport [GO:0015891]
+ 
+ATP-binding cassette (ABC) transporter complex [GO:0043190]ATP binding [GO:0005524]D-ribose transmembrane transporter activity [GO:0015591]monosaccharide-transporting ATPase activity [GO:0015407]D-ribose transport [GO:0015752]
+ 
+integral component of plasma membrane [GO:0005887]plasma membrane [GO:0005886]transporter activity [GO:0005215]
+ 
+outer membrane-bounded periplasmic space [GO:0030288]molybdenum ion binding [GO:0030151]tungstate binding [GO:1901359]molybdate ion transport [GO:0015689]
+ 
+acetolactate synthase activity [GO:0003984]cellular amino acid biosynthetic process [GO:0008652]isoleucine biosynthetic process [GO:0009097]valine biosynthetic process [GO:0009099]
+ 
+integral component of membrane [GO:0016021]plasma membrane [GO:0005886]ATPase-coupled sulfate transmembrane transporter activity [GO:0015419]
+ 
+integral component of membrane [GO:0016021]plasma membrane [GO:0005886]transporter activity [GO:0005215]carbohydrate transport [GO:0008643]D-xylose metabolic process [GO:0042732]
+ 
+sequence-specific DNA binding [GO:0043565]transcription factor activity, sequence-specific DNA binding [GO:0003700]positive regulation of transcription, DNA-templated [GO:0045893]transcription, DNA-templated [GO:0006351]
+ 
+cytosol [GO:0005829]GroEL-GroES complex [GO:1990220]membrane [GO:0016020]ATP binding [GO:0005524]ATPase activity [GO:0016887]identical protein binding [GO:0042802]magnesium ion binding [GO:0000287]protein binding involved in protein folding [GO:0044183]unfolded protein binding [GO:0051082]cell cycle [GO:0007049]cell division [GO:0051301]chaperone mediated protein folding requiring cofactor [GO:0051085]protein folding [GO:0006457]protein refolding [GO:0042026]response to heat [GO:0009408]response to radiation [GO:0009314]virion assembly [GO:0019068]
+ 
+
+ 
+DNA binding [GO:0003677]sigma factor activity [GO:0016987]transcription factor activity, sequence-specific DNA binding [GO:0003700]DNA-templated transcription, initiation [GO:0006352]ion transport [GO:0006811]iron ion homeostasis [GO:0055072]
+ 
+cytosol [GO:0005829]galactitol-1-phosphate 5-dehydrogenase activity [GO:0008868]identical protein binding [GO:0042802]zinc ion binding [GO:0008270]galactitol catabolic process [GO:0019404]
+ 
+aspartic-type endopeptidase activity [GO:0004190]endopeptidase activity [GO:0004175]enzyme activator activity [GO:0008047]metal ion binding [GO:0046872]cellular protein modification process [GO:0006464]protein processing [GO:0016485]
+ 
+4 iron, 4 sulfur cluster binding [GO:0051539]metal ion binding [GO:0046872]oxidation-reduction process [GO:0055114]
+ 
+cytoplasm [GO:0005737]anti-sigma factor antagonist activity [GO:0043856]cellular response to DNA damage stimulus [GO:0006974]negative regulation of protein catabolic process [GO:0042177]
+ 
+integral component of plasma membrane [GO:0005887]plasma membrane [GO:0005886]drug:proton antiporter activity [GO:0015307]
+ 
+[Ni-Fe] hydrogenase complex [GO:0044569]ferredoxin hydrogenase complex [GO:0009375]integral component of membrane [GO:0016021]intrinsic component of periplasmic side of plasma membrane [GO:0031237]membrane [GO:0016020]3 iron, 4 sulfur cluster binding [GO:0051538]4 iron, 4 sulfur cluster binding [GO:0051539]electron transfer activity [GO:0009055]ferredoxin hydrogenase activity [GO:0008901]hydrogenase (acceptor) activity [GO:0033748]metal ion binding [GO:0046872]anaerobic respiration [GO:0009061]fermentation [GO:0006113]
+ 
+ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing [GO:0055052]Gram-negative-bacterium-type cell wall [GO:0009276]ATP binding [GO:0005524]ATPase activity [GO:0016887]ATPase activity, coupled to transmembrane movement of substances [GO:0042626]D-methionine transmembrane transporter activity [GO:0048474]L-methionine transmembrane transporter activity [GO:0015191]D-methionine transport [GO:0048473]
+ 
+NADH dehydrogenase complex [GO:0030964]plasma membrane [GO:0005886]plasma membrane respiratory chain complex I [GO:0045272]2 iron, 2 sulfur cluster binding [GO:0051537]4 iron, 4 sulfur cluster binding [GO:0051539]electron transfer activity [GO:0009055]molybdenum ion binding [GO:0030151]NADH dehydrogenase (ubiquinone) activity [GO:0008137]quinone binding [GO:0048038]aerobic respiration [GO:0009060]ATP synthesis coupled electron transport [GO:0042773]
+ 
+outer membrane [GO:0019867]plasma membrane [GO:0005886]
+ 
+alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase complex [GO:0061694]alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase activity [GO:0061693]organic phosphonate catabolic process [GO:0019700]organic phosphonate transport [GO:0015716]
+ 
+alkanesulfonate monooxygenase activity [GO:0008726]identical protein binding [GO:0042802]alkanesulfonate catabolic process [GO:0046306]response to heat [GO:0009408]
+ 
+ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing [GO:0055052]integral component of plasma membrane [GO:0005887]plasma membrane [GO:0005886]glycerol-3-phosphate transmembrane transporter activity [GO:0015169]glycerol-3-phosphate transport [GO:0015794]glycerophosphodiester transmembrane transport [GO:0001407]
+ 
+
+ 
+lysine 2,3-aminomutase activity [GO:0050066]
+ 
+ATP binding [GO:0005524]ATP-dependent DNA helicase activity [GO:0004003]DNA binding [GO:0003677]
+ 
+peptidase activity [GO:0008233]
+ 
+
+ 

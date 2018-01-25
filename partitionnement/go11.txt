@@ -1,0 +1,39 @@
+numero uniprot est le suivant 
+ 
+b3528 b3517 b3721 b3429 b2486 b3356 b4153 b3725 b3727 b1950 b2539 b3227 
+
+ID accession uniprot est le suivant 
+P0A830  P69908  P11988  P0A6U8  P77437  P0ADX1  P0AC47  P0AAH0  P0AGH8  P33135  Q47140  P45428  
+
+L'enrichissement ontologique pour ces termes est la suivante 
+
+cytosol [GO:0005829]membrane [GO:0016020]plasma membrane fumarate reductase complex [GO:0045284]2 iron, 2 sulfur cluster binding [GO:0051537]3 iron, 4 sulfur cluster binding [GO:0051538]4 iron, 4 sulfur cluster binding [GO:0051539]electron transfer activity [GO:0009055]iron-sulfur cluster binding [GO:0051536]metal ion binding [GO:0046872]succinate dehydrogenase (ubiquinone) activity [GO:0008177]succinate dehydrogenase activity [GO:0000104]anaerobic respiration [GO:0009061]bacterial-type flagellum assembly [GO:0044780]bacterial-type flagellum-dependent cell motility [GO:0071973]fermentation [GO:0006113]tricarboxylic acid cycle [GO:0006099]
+ 
+plasma membrane [GO:0005886]ATP binding [GO:0005524]ATPase-coupled phosphate ion transmembrane transporter activity [GO:0015415]inorganic phosphate transmembrane transporter activity [GO:0005315]phosphate ion transmembrane transport [GO:0035435]phosphate ion transport [GO:0006817]regulation of phosphatase activity [GO:0010921]
+ 
+cytosol [GO:0005829]membrane [GO:0016020]glutamate decarboxylase activity [GO:0004351]pyridoxal phosphate binding [GO:0030170]glutamate metabolic process [GO:0006536]intracellular pH elevation [GO:0051454]
+ 
+integral component of membrane [GO:0016021]integral component of plasma membrane [GO:0005887]plasma membrane [GO:0005886]fumarate transmembrane transporter activity [GO:0015138]L-aspartate transmembrane transporter activity [GO:0015183]malate:proton symporter activity [GO:0015366]succinate transmembrane transporter activity [GO:0015141]cellular response to DNA damage stimulus [GO:0006974]fumarate transport [GO:0015741]L-aspartate transport [GO:0070778]
+ 
+integral component of plasma membrane [GO:0005887]plasma membrane [GO:0005886]inorganic phosphate transmembrane transporter activity [GO:0005315]phosphate ion transmembrane transport [GO:0035435]regulation of phosphatase activity [GO:0010921]response to radiation [GO:0009314]
+ 
+3-phenylpropionate dioxygenase activity [GO:0008695]3-phenylpropionate catabolic process [GO:0019380]
+ 
+cytosol [GO:0005829]6-phospho-beta-glucosidase activity [GO:0008706]beta-glucosidase activity [GO:0008422]hydrolase activity, hydrolyzing O-glycosyl compounds [GO:0004553]methyl beta-D-glucoside 6-phosphate glucohydrolase activity [GO:0103047]carbohydrate metabolic process [GO:0005975]glycosyl compound metabolic process [GO:1901657]
+ 
+cytosol [GO:0005829]alpha-1,4-glucan synthase activity [GO:0033201]glycogen (starch) synthase activity [GO:0004373]starch synthase activity [GO:0009011]cellular response to DNA damage stimulus [GO:0006974]glycogen biosynthetic process [GO:0005978]
+ 
+bacterial-type flagellum basal body [GO:0009425]integral component of membrane [GO:0016021]intracellular [GO:0005622]plasma membrane [GO:0005886]bacterial-type flagellum assembly [GO:0044780]protein targeting [GO:0006605]
+ 
+integral component of plasma membrane [GO:0005887]plasma membrane [GO:0005886]C4-dicarboxylate transmembrane transporter activity [GO:0015556]C4-dicarboxylate transport [GO:0015740]
+ 
+integral component of membrane [GO:0016021]plasma membrane [GO:0005886]oxidoreductase activity [GO:0016491]cellular response to DNA damage stimulus [GO:0006974]
+ 
+cytosol [GO:0005829]membrane [GO:0016020]plasma membrane fumarate reductase complex [GO:0045284]electron transfer activity [GO:0009055]FAD binding [GO:0071949]fumarate reductase (menaquinone) [GO:0102040]succinate dehydrogenase activity [GO:0000104]anaerobic respiration [GO:0009061]bacterial-type flagellum assembly [GO:0044780]bacterial-type flagellum-dependent cell motility [GO:0071973]cellular response to DNA damage stimulus [GO:0006974]fermentation [GO:0006113]
+ 
+8-oxo-7,8-dihydrodeoxyguanosine triphosphate pyrophosphatase activity [GO:0035539]8-oxo-7,8-dihydroguanosine triphosphate pyrophosphatase activity [GO:0008413]8-oxo-dGDP phosphatase activity [GO:0044715]8-oxo-GDP phosphatase activity [GO:0044716]magnesium ion binding [GO:0000287]manganese ion binding [GO:0030145]DNA repair [GO:0006281]DNA replication [GO:0006260]
+ 
+
+ 
+cell outer membrane [GO:0009279]integral component of membrane [GO:0016021]
+ 

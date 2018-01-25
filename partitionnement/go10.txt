@@ -1,0 +1,53 @@
+numero uniprot est le suivant 
+ 
+b4131 b3236 b4039 b2406 b2405 b4150 b3722 b2800 b2801 b2482 b1530 b3115 b1884 b1728 
+
+ID accession uniprot est le suivant 
+P0A9H3  P61889  P26602  P45562  P23841  P00811  P08722  P0AB87  P11551  P23482  P27245  P11868  P07364  P64481  
+
+L'enrichissement ontologique pour ces termes est la suivante 
+
+cytoplasm [GO:0005737]cytosol [GO:0005829]extrinsic component of membrane [GO:0019898]membrane [GO:0016020]L-malate dehydrogenase activity [GO:0030060]malate dehydrogenase activity [GO:0016615]oxidoreductase activity [GO:0016491]anaerobic respiration [GO:0009061]fermentation [GO:0006113]glycolytic process [GO:0006096]malate metabolic process [GO:0006108]tricarboxylic acid cycle [GO:0006099]
+ 
+cytosol [GO:0005829]aldehyde-lyase activity [GO:0016832]L-fuculose-phosphate aldolase activity [GO:0008738]zinc ion binding [GO:0008270]D-arabinose catabolic process [GO:0019571]L-fucose catabolic process [GO:0042355]
+ 
+cytosol [GO:0005829]chorismate lyase activity [GO:0008813]ubiquinone biosynthetic process [GO:0006744]
+ 
+outer membrane-bounded periplasmic space [GO:0030288]beta-lactamase activity [GO:0008800]antibiotic catabolic process [GO:0017001]response to antibiotic [GO:0046677]
+ 
+intracellular [GO:0005622]acetate kinase activity [GO:0008776]ATP binding [GO:0005524]metal ion binding [GO:0046872]propionate kinase activity [GO:0008980]anaerobic amino acid catabolic process [GO:0019665]L-threonine catabolic process to propionate [GO:0070689]threonine catabolic process [GO:0006567]
+ 
+integral component of membrane [GO:0016021]plasma membrane [GO:0005886]arabinose:proton symporter activity [GO:0015518]fucose:proton symporter activity [GO:0015535]galactose:proton symporter activity [GO:0015517]arabinose transport [GO:0015751]fucose metabolic process [GO:0006004]fucose transport [GO:0015756]galactose transport [GO:0015757]
+ 
+integral component of membrane [GO:0016021]membrane [GO:0016020]plasma membrane [GO:0005886]nucleoside transmembrane transporter activity [GO:0005337]xanthosine transmembrane transporter activity [GO:0015553]nucleobase-containing small molecule metabolic process [GO:0055086]nucleoside transport [GO:0015858]transport [GO:0006810]
+ 
+cytoplasm [GO:0005737]guanosine tetraphosphate binding [GO:0097216]identical protein binding [GO:0042802]lysine decarboxylase activity [GO:0008923]lysine catabolic process [GO:0006554]
+ 
+integral component of membrane [GO:0016021]plasma membrane [GO:0005886]kinase activity [GO:0016301]protein-N(PI)-phosphohistidine-sugar phosphotransferase activity [GO:0008982]protein-phosphocysteine-sugar phosphotransferase activity [GO:0090563]carbohydrate transmembrane transport [GO:0034219]phosphoenolpyruvate-dependent sugar phosphotransferase system [GO:0009401]
+ 
+DNA binding [GO:0003677]transcription factor activity, sequence-specific DNA binding [GO:0003700]transcription regulatory region DNA binding [GO:0044212]cellular response to antibiotic [GO:0071236]negative regulation of transcription, DNA-templated [GO:0045892]response to heat [GO:0009408]transcription, DNA-templated [GO:0006351]
+ 
+cytosol [GO:0005829]methyl accepting chemotaxis protein complex [GO:0098561]plasma membrane [GO:0005886]protein C-terminus binding [GO:0008022]protein-glutamate O-methyltransferase activity [GO:0008983]chemotaxis [GO:0006935]protein methylation [GO:0006479]
+ 
+integral component of membrane [GO:0016021]plasma membrane [GO:0005886]NADH dehydrogenase (ubiquinone) activity [GO:0008137]ATP synthesis coupled electron transport [GO:0042773]
+ 
+DNA binding [GO:0003677]transcription factor activity, sequence-specific DNA binding [GO:0003700]positive regulation of transcription, DNA-templated [GO:0045893]transcription, DNA-templated [GO:0006351]
+ 
+chromosome [GO:0005694]cytoplasm [GO:0005737]cytosol [GO:0005829]membrane [GO:0016020]ATP binding [GO:0005524]DNA binding [GO:0003677]DNA supercoiling activity [GO:0034335]DNA topoisomerase type II (ATP-hydrolyzing) activity [GO:0003918]DNA-dependent ATPase activity [GO:0008094]identical protein binding [GO:0042802]DNA topological change [GO:0006265]response to antibiotic [GO:0046677]response to drug [GO:0042493]transcription, DNA-templated [GO:0006351]
+ 
+integral component of membrane [GO:0016021]plasma membrane [GO:0005886]cellular response to DNA damage stimulus [GO:0006974]SOS response [GO:0009432]
+ 
+cytosol [GO:0005829]membrane [GO:0016020]identical protein binding [GO:0042802]magnesium ion binding [GO:0000287]protein homodimerization activity [GO:0042803]pyruvate dehydrogenase (acetyl-transferring) activity [GO:0004739]pyruvate dehydrogenase activity [GO:0004738]thiamine pyrophosphate binding [GO:0030976]glycolytic process [GO:0006096]
+ 
+cytosol [GO:0005829]flavin adenine dinucleotide binding [GO:0050660]UDP-galactopyranose mutase activity [GO:0008767]lipopolysaccharide biosynthetic process [GO:0009103]
+ 
+cytoplasm [GO:0005737]cytosol [GO:0005829]ATP binding [GO:0005524]ATPase activity [GO:0016887]hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances [GO:0016820]identical protein binding [GO:0042802]
+ 
+integral component of membrane [GO:0016021]transmembrane transport [GO:0055085]
+ 
+integral component of membrane [GO:0016021]solute:proton antiporter activity [GO:0015299]
+ 
+cytoplasm [GO:0005737]identical protein binding [GO:0042802]lysine decarboxylase activity [GO:0008923]lysine catabolic process [GO:0006554]
+ 
+
+ 

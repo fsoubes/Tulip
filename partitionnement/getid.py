@@ -21,6 +21,7 @@ def regulon(entry_file):
     return locustoid
 
 def convert(entry_file,dico, output_file):
+    
     file1 = open(entry_file,'r')
     file2= open(output_file,'w')
     line = file1.readlines()
