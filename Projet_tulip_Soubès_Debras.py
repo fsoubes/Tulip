@@ -1,5 +1,6 @@
-﻿# Powered by Python 3.6
-
+# Powered by Python 3.6
+# Franck Soubes 
+#Guillamaury Debras
 # To cancel the modifications performed by the script
 # on the current graph, click on the undo button.
 
@@ -34,7 +35,7 @@ import csv
 def cloned(gr):
 	
 	"""
-	add a clone and a copy of a graph if not already created
+	Add a clone
 	"""
 	
 	if gr.getSubGraph("Clone") is None:
@@ -204,8 +205,8 @@ def isnormal(gr,tps):
 	plt.plot(h,fit,'-o')
 	plt.xlabel('Niveaux expression')
 	plt.ylabel('Frequence')
-	pl.hist(h,normed=True)
-	pl.show()
+	plt.hist(h,normed=True)
+	plt.show()
 	
 
 def delnode(nodesource,tp_s) :
@@ -244,6 +245,9 @@ def pearson(nodesource,nodetarget, tp_s) :
 	
 	
 def construct(gr,tp):
+	""" 
+	Create a specific graph according to pearson correlation
+	"""
 	
 	if gr.getSubGraph("Partitionnement") is None:
 		partitionnement = gr.addCloneSubGraph("Partitionnement")
@@ -265,6 +269,9 @@ def construct(gr,tp):
 
 
 def clustering(gr):
+	"""
+	Create a clustering graph according to MCL clustering fonction
+	"""
 	
 	if gr.getSubGraph("Clustering") is None:
 		clustering = gr.addCloneSubGraph("Clustering")
@@ -306,6 +313,9 @@ def partitionning(gr,poids,pvalue,tp):
 #######################
 
 def attributevalues(gr,listetps,Locus):
+	"""
+	Create two list containing each locusname and values of tps
+	"""
 	
 	Locusname= []
 	Locus = graph.getStringProperty("Locus")
@@ -324,7 +334,10 @@ def attributevalues(gr,listetps,Locus):
 
 
 def construireGrille(gr, lignes, colonnes,liste,listegene,flag,layout):
+	"""
+	Create a heatmap structure  and fill the nodes with specific values
 	
+	"""
 	
 	
 	if not flag:
@@ -371,6 +384,9 @@ def construireGrille(gr, lignes, colonnes,liste,listegene,flag,layout):
 			
 
 def getordervalues(gr,tp_s):
+	"""
+	Create 2 list with the ordering locus names and values according to the pearson clustering
+	"""
 
 	cpt=0
 	for i in gr.getNodes():
@@ -399,6 +415,9 @@ def getordervalues(gr,tp_s):
 					
 
 def heatmap(heat):
+	"""
+	generate the heatmap color
+	"""
 	
 	viewShape = heat.getIntegerProperty("viewShape")
 	gene_exp=heat.getDoubleProperty("Gene_expression")
@@ -424,34 +443,55 @@ def heatmap(heat):
 ###### ANALYSE ########
 #######################
 
-def getcluster(gr):
+def getcluster(gr,reguliste):
+	"""
+	Generate txt files of the first 20 clusters and the regulon genes with
+	their positions in cluster
+	"""
 	
 	rMetric = gr.getDoubleProperty("resultMetric")
 	Locus = gr.getStringProperty("Locus")
 	m=0
-	max_metric = rMetric.getNodeDoubleMax()
-	#finallocus = []
-	#finallocus.append("Cluster 0")
-	while m <= 15 :
+	#max_metric = rMetric.getNodeDoubleMax()
+	clustlist = []
+	noclustlist = []
+
+	while m <= 20 :
 		finallocus=[]
 		for i in gr.getNodes():
 			if rMetric[i] == m :
 				finallocus.append(str(Locus[i]))
-		fl = open("cluster" + str(m) + ".txt", "w")
+			for r in range(len(reguliste)) :
+				if rMetric[i] == m and Locus[i] == reguliste[r] :
+					clustlist.append(reguliste[r]+" is in cluster"+str(m))
+					noclustlist.append(reguliste[r])
+		f1 = open("cluster"+str(m)+".txt","w")
 		for gene in finallocus :
-			fl.write(gene+ "\n")
-		fl.close()
+			f1.write(gene+"\n")
+		f1.close()
 		m+=1
-
+	f1 = open("regulon_cluster.txt","w")
+	for regul in clustlist:
+		f1.write(regul+"\n")
+	f1.close()
+	
+	f1= open("regulon_nocluster.txt","w")
+	for regul in noclustlist:
+		f1.write(regul+"\n")
+	f1.close()
+		
 		
 	return finallocus
   	
 
-def degree(gr):
-	Listeregul=[]
+def Regulon(gr):
+	"""
+	Return a list of gene names which have more than 100 degrees 
+	"""
 	Locus = gr.getStringProperty("Locus")
+	Listeregul=[]
 	for i in gr.getNodes():
-		if gr.deg(i) > 40:
+		if gr.deg(i) > 100:
 			Listeregul.append(Locus[i])
 	return Listeregul
 
@@ -523,7 +563,7 @@ def main(graph):
 
 
  
-##Première partie
+##First Part
 	
   displaylabels(copy)
   nodesize(copy)
@@ -533,41 +573,41 @@ def main(graph):
   edge_bundling(copy)
   #savescren(notscaled(copy))
 
-##Seconde partie
+##Second Part
 
   
-  #partit = construct(copy,tp_s)
-  #dessinerModeleForce(copy) 
-  #clustergr = clustering(partit) 
-  #numnodefiltered = clustergr.numberOfNodes()
+  partit = construct(copy,tp_s)
+  dessinerModeleForce(copy) 
+  clustergr = clustering(partit) 
+  numnodefiltered = clustergr.numberOfNodes()
   #isnormal(graph,tp_s)
 
-##Troisème partie 
+##Third Party
 
  
 
 #heatmap without clustering
 
-  #locusheatv1,listv1 = attributevalues(copy,tp_s,Locus)
-  #heatmpv1 = construireGrille(copy, numbernodes,numberexpre ,listv1,locusheatv1,False,viewLayout)
+  locusheatv1,listv1 = attributevalues(copy,tp_s,Locus)
+  heatmpv1 = construireGrille(copy, numbernodes,numberexpre ,listv1,locusheatv1,False,viewLayout)
 
   
 #heatmap with clustering
 
-  #locusheatv2, listv2 = getordervalues(clustergr,tp_s)
-  #heatmp = construireGrille(clustergr, numnodefiltered, numberexpre, listv2,locusheatv2,True,viewLayout	)
+  locusheatv2, listv2 = getordervalues(clustergr,tp_s)
+  heatmp = construireGrille(clustergr, numnodefiltered, numberexpre, listv2,locusheatv2,True,viewLayout	)
 
 
 
-  ## Analyse
+  ## Analysis
   
   parti = copy.getSubGraph("Partitionnement")
   
-  listecluster = getcluster(parti)
-  #locusheatv2, listv2 = getordervalues(parti,tp_s)
-##Analyse
+  listeregu = Regulon(clone)
+  
+  listecluster = getcluster(parti,listeregu)
 
-   	
+
 
   
 
